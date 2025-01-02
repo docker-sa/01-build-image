@@ -17,3 +17,5 @@ git push origin main ${TAG}
 ```
 
 Go to https://github.com/docker-sa/01-build-image/actions
+
+And then, https://hub.docker.com/repository/docker/philippecharriere494/01-hello-build-demo/general
