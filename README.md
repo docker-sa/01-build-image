@@ -15,3 +15,5 @@ git commit -m "📦 create release ${TAG}"
 git tag ${TAG}
 git push origin main ${TAG}
 ```
+
+Go to https://github.com/docker-sa/01-build-image/actions
