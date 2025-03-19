@@ -45,7 +45,7 @@ jobs:
             type=ref,event=branch
             type=ref,event=pr
             type=semver,pattern={{version}}
-            type=sha,format=long
+            # type=sha,format=long
 
 
       # Step 4: Build and push the Docker image
