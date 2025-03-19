@@ -38,5 +38,5 @@ jobs:
           file: ./Dockerfile
           push: true
           #tags: ${{ steps.meta.outputs.tags }}
-          tags: philippecharriere494/02-hello-scout-demo:${{ github.ref_name }}
+          tags: philippecharriere494/gha-simple-hello-demo:${{ github.ref_name }}
 
